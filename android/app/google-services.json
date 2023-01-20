@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810488875512",
+    "project_id": "cosary-a6231",
+    "storage_bucket": "cosary-a6231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810488875512:android:f23952847406867f5b6e0d",
+        "android_client_info": {
+          "package_name": "com.example.cosary_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810488875512-8j76abh88j345j4f9q4q7bkeh4qrj7du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25rrrGTBg8NZntc3p0uG4IglJcukU3Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810488875512-8j76abh88j345j4f9q4q7bkeh4qrj7du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
